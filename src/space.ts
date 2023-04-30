@@ -1,3 +1,4 @@
+// margin, padding spacings
 export const space = {
   1: '0.25rem',
   2: '0.5rem',
